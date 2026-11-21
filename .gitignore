@@ -1,0 +1,13 @@
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# editor files
+.vscode/
+.idea/
+*.swp
+
+# if you ever make a copy of db_connect with real hosting credentials
+# for testing, keep it out of git
+db_connect_live.php
